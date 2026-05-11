@@ -1,3 +1,4 @@
+# Re-index workflow in fork.
 name: 🚀 Deploy cloud-mail to Cloudflare Workers
 
 on:
